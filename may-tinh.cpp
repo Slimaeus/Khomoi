@@ -1,4 +1,5 @@
 #include<stdio.h>
+//hello
 using namespace std;
 void nhapso(int &a)
 {
